@@ -1,4 +1,4 @@
-I'm a information technology manager in Brazil and working as trainee programmer 👶. I like to think i'm a FullStack 💻
+<--I'm a information technology manager in Brazil and working as trainee programmer 👶. I like to think i'm a FullStack 💻
 
 🔭 I’m currently working on Info Rio Systems.
 🌱 I’m currently learning JS, ANGULAR, POSTGRES, C#. ASP.net CORE.
